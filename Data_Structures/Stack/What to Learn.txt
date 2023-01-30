@@ -1,0 +1,2 @@
+1. Learn about c++ stack stl library -> https://www.geeksforgeeks.org/stack-in-cpp-stl/
+2. What is `this` pointer in c++ ? -> https://www.geeksforgeeks.org/this-pointer-in-c/
