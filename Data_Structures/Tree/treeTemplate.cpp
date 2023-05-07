@@ -1,7 +1,5 @@
 // Template for tree problems
-#include <iostream>
-#include <queue>
-
+#include <bits/stdc++.h>
 using namespace std;
 
 struct Node
@@ -33,3 +31,15 @@ int main()
 
     return 0;
 }
+
+
+// Node* myNewNode( int key){
+//     Node* newNode = new Node();
+//     if(!newNode){
+//         cout << "Memory Error\n";
+//         return NULL;
+//     }
+//     newNode-> data = key;
+//     newNode-> left = newNode-> right = NULL;
+//     return newNode;
+// }
